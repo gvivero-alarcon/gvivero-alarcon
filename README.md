@@ -21,6 +21,12 @@ Soy **Ingeniero Civil de Minas** con un pie en el mundo de las rocas y otro en e
 
 ---
 
+## 💬 Frase personal
+
+> ¿¡Y LAS UNIDADES DE MEDIDA!? 👊
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes
@@ -94,12 +100,6 @@ Cuando no estoy depurando Python ni enseñando en clases, probablemente estoy:
 
 ---
 
-## 💬 Frase personal
-
-> *[Agrega aquí tu frase o lema personal]*
-
----
-
 ## 📬 Contacto
 
 <p>
@@ -116,5 +116,3 @@ Cuando no estoy depurando Python ni enseñando en clases, probablemente estoy:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gvivero-alarcon&style=flat-square&color=2E9EF7" alt="Profile views" />
 </p>
-
-<p align="center"><em>Hecho con ☕, mucho Python y algo de dinamita virtual 💥</em></p>
