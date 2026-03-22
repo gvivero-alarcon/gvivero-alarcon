@@ -15,15 +15,9 @@
 ## 🧑‍💻 Sobre mí
 
 <!-- Edita esta sección con tu presentación personal -->
-> *[Agrega aquí una presentación en 1–2 líneas sobre ti]*
+> *Desarrollador de herramientas de ingeniería*
 
 Soy **Ingeniero Civil de Minas** con un pie en el mundo de las rocas y otro en el del código. Trabajo como **Ingeniero de Desarrollo de Software** en la **UTFSM** y la **UdeC**, y hago clases en la **UdeC** y la **UNAB**. Me muevo entre la ingeniería minera y el desarrollo de software, combinando ambos mundos para construir herramientas que resuelvan problemas reales de la industria.
-
----
-
-## 💬 Frase personal
-
-> ¿¡Y LAS UNIDADES DE MEDIDA!? 👊
 
 ---
 
@@ -89,6 +83,12 @@ Herramienta desarrollada en Python para asistir el proceso completo de diseño y
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gvivero-alarcon&theme=tokyonight&hide_border=true&locale=es" />
 </p>
+
+---
+
+## 💬 Frase personal
+
+> ¿¡Y LAS UNIDADES DE MEDIDA!? 👊
 
 ---
 
